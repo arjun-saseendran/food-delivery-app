@@ -1,5 +1,5 @@
 {
-  "name": "food-delivery-web-application",
+  "name": "server",
   "version": "1.0.0",
   "description": "food delivery web application backend",
   "main": "index.js",
